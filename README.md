@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haybegeek
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning computer engineering.
+- 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by discord account haybe#2251
 
